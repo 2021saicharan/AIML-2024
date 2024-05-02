@@ -12,3 +12,7 @@
 
 # AIML-2024
 [LAB-05](https://github.com/2021saicharan/AIML-2024.git)
+
+# AIML-2024
+[LAB-06](https://github.com/2021saicharan/AIML-2024.git)
+
